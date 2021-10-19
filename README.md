@@ -1,5 +1,5 @@
 # Library\_Lookup
-Book queries utilizing TCP sockets
+Book queries utilizing TCP sockets in Python 3.0 
 
 
 
