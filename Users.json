@@ -1,0 +1,29 @@
+{
+	"User": [
+		{
+			"Name":"John", 
+			"Email":"john@gmail.com", 
+			"Phone":"1234567"
+		},
+		{
+			"Name":"alex", 
+			"Email":"alex@gmail.com", 
+			"Phone":"1456767"
+		},
+		{
+			"Name":"David", 
+			"Email":"David@gmail.com", 
+			"Phone":"7952632"
+		},
+		{
+			"Name":"Abby", 
+			"Email":"jAbby@gmail.com", 
+			"Phone":"2757237"
+		},
+		{
+			"Name":"Vent Cerf", 
+			"Email":"vent.cert@email.com", 
+			"Phone":"2799237"
+		}
+	]
+}

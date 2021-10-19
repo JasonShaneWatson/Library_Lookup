@@ -1,0 +1,62 @@
+{
+	"Books": [
+		{
+			"Book title": "Network Programming",
+			"Author":"Adam Woodbeck",
+			"Status":"Available", 
+			"BorrowedBy":null,
+			"ReturnDate":null
+		},
+		{
+			"Book title":"Python", 
+			"Author":"Dan Bader", 
+			"Status":"Borrowed", 
+			"BorrowedBy":"Alex",
+			"ReturnDate":"11-01-2021"
+		},
+		{
+			"Book title":"Clean Code", 
+			"Author":"Robert Cecil", 
+			"Status":"Available", 
+			"BorrowedBy":null,
+			"ReturnDate":null
+		},
+		{
+			"Book title":"Design Patterns", 
+			"Author":"John Vlissides", 
+			"Status":"Borrowed", 
+			"BorrowedBy":"John",
+			"ReturnDate":"11-05-2021"
+		},
+		{
+			"Book title":"Introduction to Algorithms", 
+			"Author":"Clifford Stein", 
+			"Status":"Available",      
+			"BorrowedBy":null,
+			"ReturnDate":null
+		},
+		{
+			"Book title":"Ishmael", 
+			"Author":"Daniel Quinn", 
+			"Status":"Borrowed",      
+			"BorrowedBy":"Vent Cerf",
+			"ReturnDate":"01-01-2022"
+		},
+		{
+			"Book title":"My Ishmael", 
+			"Author":"Daniel Quinn", 
+			"Status":"Available",      
+			"BorrowedBy":null,
+			"ReturnDate":null
+		},
+		{
+			"Book title":"The Story of B", 
+			"Author":"Daniel Quinn", 
+			"Status":"Available",      
+			"BorrowedBy":null,
+			"ReturnDate":null
+		}
+	]
+}
+
+
